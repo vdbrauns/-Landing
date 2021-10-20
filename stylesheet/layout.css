@@ -7,12 +7,16 @@ body
 }
 @font-face {
 font-family: "Museo Sans Cyrl";
-src: url("/fonts/museosanscyrl-900.ttf") format("ttf");
-src: url("/fonts/museosanscyrl-700.ttf") format("ttf");
-src: url("/fonts/museosanscyrl-500.ttf") format("ttf");
+src: url("fonts/museosanscyrl-900.ttf") format("ttf");
+src: url("fonts/museosanscyrl-700.ttf") format("ttf");
+src: url("fonts/museosanscyrl-500.ttf") format("ttf");
 }
+
 .name
 {
+  font-family:"Museo Sans Cyrl";
+  font-weight:900;
+  font-style: normal;
   position: relative;
   font-size: 100px;
   color: #C62F2D;
@@ -21,7 +25,9 @@ src: url("/fonts/museosanscyrl-500.ttf") format("ttf");
 }
 .name2
 {
-  font-family: museo sans cyrl;
+  font-family:"Museo Sans Cyrl";
+  font-weight:900;
+  font-style: normal;
   position: relative;
   font-size: 50px;
   color: #C62F2D;
