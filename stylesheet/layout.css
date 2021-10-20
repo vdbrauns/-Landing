@@ -6,15 +6,21 @@ body
   display:block;
 }
 @font-face {
-font-family: "Museo Sans Cyrl";
+font-family: "Museo Sans Cyrl Bold";
 src: url("fonts/museosanscyrl-900.ttf") format("ttf");
+}
+@font-face {
+font-family: "Museo Sans Cyrl";
 src: url("fonts/museosanscyrl-700.ttf") format("ttf");
+}
+@font-face {
+font-family: "Museo Sans Cyrl";
 src: url("fonts/museosanscyrl-500.ttf") format("ttf");
 }
 
 .name
 {
-  font-family:"Museo Sans Cyrl";
+  font-family:"Museo Sans Cyrl Bold";
   font-weight:900;
   font-style: normal;
   position: relative;
