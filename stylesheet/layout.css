@@ -10,6 +10,7 @@ font-family: "Museo Sans Cyrl";
 src: url("/fonts/museosanscyrl-900.ttf") format("ttf");
 src: url("/fonts/museosanscyrl-700.ttf") format("ttf");
 src: url("/fonts/museosanscyrl-500.ttf") format("ttf");
+}
 .name
 {
   position: relative;
