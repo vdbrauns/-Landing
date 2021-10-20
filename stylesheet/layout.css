@@ -1,1 +1,52 @@
-h1{}
+body
+{
+  background-color: #F3F3EB;
+  width: 1440px;
+  font-family: Museo Sans Cyrl;
+  display:block;
+}
+.name
+{
+  position: relative;
+  font-size: 100px;
+  color: #C62F2D;
+  margin-left: 201px;
+  margin-top: 100px;
+}
+.name2
+{
+  position: relative;
+  font-size: 50px;
+  color: #C62F2D;
+  margin-left: 201px;
+  margin-top: 287,54px;
+}
+.mus
+{
+position: relative;
+width: 351px;
+height: 73px;
+margin-left: 203px;
+margin-top: 287,54px;
+}
+.maincomposition
+{
+  position: relative;
+  margin-left: 5px;
+  margin-top: -395px;
+}
+.about
+{
+  position: relative;
+  font-size: 48px;
+  color: #F3F3EB;
+  margin-left: 195.21px;
+  margin-top: -100px;
+}
+.rectangle
+{
+ width: 1440px;
+ background-color: #C62F2D;
+ height: 520;
+ margin-top: 100px;
+}
