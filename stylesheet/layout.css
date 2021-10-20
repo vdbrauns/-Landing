@@ -5,6 +5,11 @@ body
   font-family: Museo Sans Cyrl;
   display:block;
 }
+@font-face {
+font-family: "Museo Sans Cyrl";
+src: url("/fonts/museosanscyrl-900.ttf") format("ttf");
+src: url("/fonts/museosanscyrl-700.ttf") format("ttf");
+src: url("/fonts/museosanscyrl-500.ttf") format("ttf");
 .name
 {
   position: relative;
@@ -15,6 +20,7 @@ body
 }
 .name2
 {
+  font-family: museo sans cyrl;
   position: relative;
   font-size: 50px;
   color: #C62F2D;
