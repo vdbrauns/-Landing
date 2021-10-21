@@ -304,18 +304,21 @@ src: url("fonts/museosanscyrl-500.ttf");
   margin-left: 200px;
   margin-top: 35px;
 }
-.shape3
+.rectangle
 {
   position: absolute;
   background-color: #C62F2D;
   width: 1460px;
-  height: 56px;
+  height: 265px;
   margin-left: -6px;
-  top: 1000px;
+  margin-top: 585px;
 }
-.hse
+.futer
 {
+  font-family:"Museo Sans Cyrl Bold";
   position: relative;
-  margin-left: 160px;
-  margin-top: 900px;
+  color: #F3F3EB;
+  font-size: 24px;
+  margin-left: 208px;
+  margin-top: 680px;
 }
